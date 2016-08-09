@@ -5,5 +5,6 @@
     android:accessibilityFlags="flagDefault|flagIncludeNotImportantViews|flagReportViewIds|flagRequestEnhancedWebAccessibility|flagRetrieveInteractiveWindows"
     android:canRetrieveWindowContent="true"
     android:notificationTimeout="0"
-    android:packageNames="com.flipkart.android"
+    android:packageNames="com.flipkart.android,in.amazon.mShop.android.shopping"
     android:settingsActivity="com.example.android.apis.accessibility.TestBackActivity" />
+
